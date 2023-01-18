@@ -357,7 +357,7 @@ Associare alla stima puntuale una misura della sua precisione
 
 .panelset[
 .panel[.panel-name[Passaggio a Z]
-Data una variabile casuale normale $X$ dal T.C.L. sappiamo che
+Data una variabile casuale normale $X$ dal T.L.C. sappiamo che
 
 $$Z =\frac{\bar{X}-\mu}{\frac{\sigma}{\sqrt{n}}}$$
 

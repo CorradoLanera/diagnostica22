@@ -271,7 +271,7 @@ class: inverse, middle
 
 Una variabile casuale è una quantità che assume **valori differenti** con **specifiche probabilità**
 
-- una variabile casuale che assume un .orange[insieme discreto] di valori con probabilità specificata à detta variabile casuale **discreta**
+- una variabile casuale che assume un .orange[insieme discreto] di valori con probabilità specificata è detta variabile casuale **discreta**
 
 - una variabile casuale che assume un .orange[insieme continuo] (e infinito) di valori, in modo che **gli intervalli** di tali valori abbiano probabilità specificata è detta variabile casuale continua
 
@@ -605,6 +605,9 @@ $$P(X=k)=\binom{n}{k}p^k(1-p)^{n-k} \:\:\:\: k=0,1,\ldots,n$$
 vale la simmetria
 
 $$P(X=k)=\binom{n}{k}p^k(1-p)^{n-k} = \binom{n}{n-k}p^{n-k}(1-p)^{k}=P(X=n-k)$$
+
+Se $n=1$ la distribuzione binomiale prende il nome di distribuzione di Bernulli.
+
 ]
 
 .panel[.panel-name[Esempio]
